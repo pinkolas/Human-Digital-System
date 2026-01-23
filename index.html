@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Human HUD</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="hud">
+
+  <header class="hud-header">
+    <h1>DIGITAL HUMAN SYSTEM</h1>
+    <span class="status">SYSTEM ONLINE</span>
+  </header>
+
+  <div class="hud-grid">
+
+    <!-- Vital Core -->
+    <div class="panel core">
+      <h2>CORE STATUS</h2>
+      <div class="ring">
+        <span id="coreValue">72%</span>
+      </div>
+    </div>
+
+    <!-- Metrics -->
+    <div class="panel metrics">
+      <h2>NEURAL METRICS</h2>
+      <div class="bar">
+        Cognitive Load <span id="load">0%</span>
+        <div class="progress"><div id="loadBar"></div></div>
+      </div>
+      <div class="bar">
+        Focus Level <span id="focus">0%</span>
+        <div class="progress"><div id="focusBar"></div></div>
+      </div>
+    </div>
+
+    <!-- Radar -->
+    <div class="panel radar">
+      <h2>ENV SCAN</h2>
+      <div class="radar-circle">
+        <div class="sweep"></div>
+        <span class="dot"></span>
+        <span class="dot d2"></span>
+        <span class="dot d3"></span>
+      </div>
+    </div>
+
+    <!-- Logs -->
+    <div class="panel logs">
+      <h2>SYSTEM LOGS</h2>
+      <ul id="logList"></ul>
+    </div>
+
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
